@@ -15,13 +15,13 @@ const projects = [
     tech: ["Spring Boot", "MongoDB", "React"],
     link: "https://github.com/VemulaMaruthi/virtual-study-buddy",
   },
-  {
-    title: "Weather Forecast App",
-    description:
-      "A responsive weather application that fetches live weather data using OpenWeather API and displays temperature, humidity, and wind details.",
-    tech: ["React", "API Integration", "JavaScript"],
-    link: "https://github.com/yourusername/weather-app",
-  },
+  // {
+  //   title: "Weather Forecast App",
+  //   description:
+  //     "A responsive weather application that fetches live weather data using OpenWeather API and displays temperature, humidity, and wind details.",
+  //   tech: ["React", "API Integration", "JavaScript"],
+  //   link: "https://github.com/yourusername/weather-app",
+  // },
 ];
 
 function Projects() {

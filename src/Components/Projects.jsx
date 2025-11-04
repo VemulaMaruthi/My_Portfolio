@@ -6,7 +6,7 @@ const projects = [
     description:
       "A personal portfolio website built using React and Tailwind CSS, connected with Spring Boot backend for dynamic content like profile photo and admin updates.",
     tech: ["React", "Tailwind CSS", "Spring Boot"],
-    link: "https://github.com/yourusername/portfolio",
+    link: "https://github.com/VemulaMaruthi/My_Portfolio",
   },
   {
     title: "Virtual Study Buddy",
